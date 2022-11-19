@@ -55,6 +55,7 @@ body {
 	border-radius: 100px;
 	text-decoration: none;
 	color: white;
+	transition: all .1s ease-out;
 }
 .menu:hover {
 	transform: scale(1.03);
