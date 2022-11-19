@@ -50,6 +50,7 @@ body {
 }
 
 .dropdown-togle {
+	height: inherit;
 	margin-left: 40px;
 	padding: 10px 8px;
 	background-color: coral;
