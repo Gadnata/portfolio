@@ -51,6 +51,13 @@ body {
 
 .menu {
 	margin-left: 20px;
+	background-color: coral;
+	border-radius: 100px;
+	text-decoration: none;
+	color: white;
+}
+.menu:hover {
+	transform: scale(1.03);
 }
 
 .navbar-brand {
