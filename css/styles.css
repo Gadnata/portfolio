@@ -51,14 +51,16 @@ body {
 
 .menu {
 	margin-left: 20px;
+	padding: 10px 15px;
 	background-color: coral;
-	border-radius: 100px;
+	border-radius: 70px;
 	text-decoration: none;
 	color: white;
 	transition: all .1s ease-out;
 }
 .menu:hover {
 	transform: scale(1.03);
+	color: white;
 }
 
 .navbar-brand {
