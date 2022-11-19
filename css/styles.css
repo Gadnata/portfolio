@@ -51,16 +51,16 @@ body {
 
 .menu {
 	margin-left: 40px;
-	padding: 6px 6px;
+	padding: 10px 8px;
 	background-color: coral;
-	border-radius: 70px;
+	border-radius: 50px;
 	text-decoration: none;
 	box-shadow: 0 4px 6px rgba(255, 127, 80, .2);
 	color: white;
 	transition: all .1s ease-out;
 }
 .menu:hover {
-	transform: scale(1.10);
+	transform: scale(1.16);
 	color: white;
 	box-shadow: 0 9px 6px rgba(255, 127, 80, .5);
 }
