@@ -44,3 +44,10 @@ body {
 .menu {
 	margin-left: 20px;
 }
+
+.navbar-brand {
+	font-weight: 700;
+	font-size: 26px;
+	text-decoration: none;
+	color: #000;
+}
