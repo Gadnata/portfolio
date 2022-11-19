@@ -59,7 +59,7 @@ body {
 	transition: all .1s ease-out;
 }
 .menu:hover {
-	transform: scale(1.03);
+	transform: scale(1.10);
 	color: white;
 }
 
