@@ -33,6 +33,7 @@ body {
 }
 
 .navbar-menu li a {
+	margin-left: 15px;
 	display: inline-block;
 	color: #000;
 	opacity: 0.6;
