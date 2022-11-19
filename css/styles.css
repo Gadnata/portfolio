@@ -40,3 +40,7 @@ body {
 	display: flex;
 	flex-flow: row nowrap;
 }
+
+.menu {
+	margin-left: 20px;
+}
