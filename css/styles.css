@@ -37,6 +37,11 @@ body {
 	color: #000;
 	opacity: 0.6;
 	text-decoration: none;
+	transition: all .2s ease-in-out;
+}
+
+.navbar-menu li a:hover {
+	opacity: 1;
 }
 
 .navbar-wrap {
