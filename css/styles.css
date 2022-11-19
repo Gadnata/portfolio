@@ -55,12 +55,14 @@ body {
 	background-color: coral;
 	border-radius: 70px;
 	text-decoration: none;
+	box-shadow: 0 4px 6px rgba(255, 127, 80, .2);
 	color: white;
 	transition: all .1s ease-out;
 }
 .menu:hover {
 	transform: scale(1.10);
 	color: white;
+	box-shadow: 0 9px 6px rgba(255, 127, 80, .5);
 }
 
 .navbar-brand {
